@@ -1,1 +1,1 @@
-# next-server-action
+# nextjs-server-action
